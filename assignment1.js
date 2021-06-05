@@ -4,7 +4,7 @@ var q;
 var p;
 var r;
 //STRING IMPLEMENTATION
-q = "Allahnana"
+q = "Allahnana Abdulhadi"
 console.log(q);
 console.log (typeof(q));
 //INTEGER IMPLEMENTATION

@@ -78,7 +78,7 @@
 // }); 
 // console.log(totalAges);
 
-const ABDULHADDI = ['FAUZZIYA', 'RAHMA', 'MARDIYYA', 'MAI JAN IDO'];
-ABDULHADDI.forEach(function(marry,index){
-    console.log(index, marry);
-});      
+// const ABDULHADDI = ['FAUZZIYA', 'RAHMA', 'MARDIYYA', 'ZABIYYA'];
+// ABDULHADDI.forEach(function(marry,index){
+//     console.log(index, marry);
+// });      
