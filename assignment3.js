@@ -11,7 +11,7 @@ if (age >= 18){
 
 
 var age_1 = 34;
-var age_2 = 13;
+var age_2 = 14;
 
 if (age_1 == age_2 && age_1 && age_2 >= 18  ){
     console.log(" The both of you can be admitted into the University")
