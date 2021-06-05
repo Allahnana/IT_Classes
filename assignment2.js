@@ -1,4 +1,4 @@
-var a = 22;
+var a = 23;
 var b = 24;
 
 if (a > b){
